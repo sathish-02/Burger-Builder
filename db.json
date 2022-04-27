@@ -1,0 +1,48 @@
+{
+  "orders": [
+    {
+      "lettuce": 0,
+      "tomato": 0,
+      "cheese": 0,
+      "meat": 0,
+      "price": 20,
+      "id": 1
+    },
+    {
+      "lettuce": 2,
+      "tomato": 1,
+      "cheese": 1,
+      "meat": 1,
+      "price": 145,
+      "id": 2
+    },
+    {
+      "lettuce": 0,
+      "tomato": 0,
+      "cheese": 0,
+      "meat": 0,
+      "price": 20,
+      "date": "2022-04-27T11:04:54.848Z",
+      "id": 3
+    },
+    {
+      "lettuce": 0,
+      "tomato": 0,
+      "cheese": 0,
+      "meat": 0,
+      "price": 20,
+      "date": "2022-04-27T12:05:19.572Z",
+      "id": 4
+    },
+    {
+      "lettuce": 0,
+      "tomato": 0,
+      "cheese": 0,
+      "meat": 1,
+      "price": 50,
+      "date": "2022-04-27T13:37:11.096Z",
+      "quantity": 2,
+      "id": 5
+    }
+  ]
+}
